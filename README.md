@@ -1,1 +1,1 @@
-# SD-104-ChangeConsoleCommand
+# SD-104-ConsoleCommand
